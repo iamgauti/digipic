@@ -1,2 +1,2 @@
-# image-search
-Search images
+# digipic
+Search images at [https://digipic.herokuapp.com/]
